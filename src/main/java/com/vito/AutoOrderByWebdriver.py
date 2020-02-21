@@ -1,6 +1,7 @@
 from selenium import webdriver
 import urllib.request
 import time
+#基于selenium实现在google浏览器中自动刷新页面下单
 # def doGet(url):
 #     response = urllib.request.urlopen(url)
 #     print(response.read())
